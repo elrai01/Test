@@ -2,5 +2,4 @@
 ## test only
 ## Hello World
 GO! GO! GO!
-STOP!
-NO
+No
